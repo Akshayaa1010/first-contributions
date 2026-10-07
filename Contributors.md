@@ -107,6 +107,7 @@ John Doe 2026
 - [Karberg](https://github.com/Karberg) - My first open-source contribution!!
 - [Lukas0808988](https://github.com/Lukas0808988)
 - [Random Porcupine](https://github.com/random-porcupine)
+- [Akshayaa](https://github.com/Akshayaa1010)
 - [Vedant Sawant](https://github.com/Vedant-9105)
 - [ayuuXploits](https://github.com/ayuuXploits) - Hello! This is my first open-source contribution!
 - [aungthuHein](https://github.com/aHein007) -keep going and stay focus and stay strong in you CS student life!
